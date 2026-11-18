@@ -1,5 +1,5 @@
 // Student: Malla Hasaballa Ahmed Haggar
-// Reg no: 25363
+// Reg no: 25363/2024
 const String regNo = '25363';
 final int d = int.parse(regNo[regNo.length - 1]);
 final int t = int.parse(regNo.substring(regNo.length - 2));
