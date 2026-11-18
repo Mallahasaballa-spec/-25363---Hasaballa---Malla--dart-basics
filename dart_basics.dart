@@ -80,28 +80,26 @@ String maskPhone(String phone) {
 
 void main() {
   //By MH
-  /*
+
   print('Reg no: $regNo | D = $d | T = $t');
 
-
   //B2
-    String fullName = "Moalla Hasaballa Ahmed Haggar";
+  String fullName = "Moalla Hasaballa Ahmed Haggar";
 
   print("$fullName has ${countVowels(fullName)} vowels");
-  
 
   //B3
-   print(initials("Moalla Hasaballa Ahmed Haggar"));
+  print(initials("Moalla Hasaballa Ahmed Haggar"));
   print(initials(" ana uwase "));
   print(initials(" "));
 
-//C5
- int D = 4;
+  //C5
+  int D = 4;
 
   drawTriangle(D + 3);
   drawTriangle(0);
   drawTriangle(-2);
-*/
+
   //D2
   int DD = 4;
   int T = 57;
