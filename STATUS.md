@@ -2,7 +2,7 @@
 
 ## Done
 
-- Repository setup, README, and personal constants block
+- Repository setup, README, and personal constants block , PDF
 - B2, B3 , C5 , D2
 
 ## In progress
